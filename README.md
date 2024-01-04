@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [my portfolio website](https://github.com/surajverma-07/Portfolio-Website)
+- 🔭 I’m currently working on [my portfolio website](https://surajverma-07.github.io/Portfolio-Website/)
 
 - 🌱 I’m currently learning **React JS**
 
