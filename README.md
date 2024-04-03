@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [http://cuwebdevsuraj.netlify.app](https://cuwebdevsuraj.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliodevsuraj.netlify.app](https://portfoliodevsuraj.netlify.app/)
 
 - 💬 Ask me about **Frontend Web Devlopment, programming language**
 
