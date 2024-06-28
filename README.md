@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Suraj kumar verma <br>a passionate React JS Developer</h1>
+<h1 align="center">hey there 👋 I'm Suraj kumar verma <br>a passionate MERN STACK Developer</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm second year Computer Science Student from Bhilai Institute of Technology Durg<br><br>- 🔭 I’m working as React JS Project<br>- 📚 I'm currently learning Backend Web Development<br>- ⚡ In my free time I do Coding</p>
+<p align="left">I'm second year Computer Science Student from Bhilai Institute of Technology Durg<br><br>- 🔭 I’m working IN A MERN STACK Project<br>- 📚 I'm currently learning Backend Web Development<br>- ⚡ In my free time I do Coding</p>
 
 ###
 
