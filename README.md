@@ -111,13 +111,4 @@
 
 ---
 
-<h3>📊 GitHub Stats (Dark Theme)</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajverma-07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajverma-07&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
